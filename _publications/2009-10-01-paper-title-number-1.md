@@ -1,8 +1,8 @@
 ---
 title: "Classification of Photospheric Emission in Short GRBs"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-#excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/Dereli-Bégué_2020_ApJ_897_145
+#excerpt: ''
 date: 2020-07-13
 venue: 'ApJ'
 paperurl: 'http://academicpages.github.io/files/Dereli-Bégué_2020_ApJ_897_145.pdf'
