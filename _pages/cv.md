@@ -11,22 +11,23 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Sc. in Physics, Cukurova University, 2006
+* M.Sc. in Astrophysics, Cukurova University, 2010
+* Ph.D. in Relativistic Astrophysics, Nive University, 2014
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2015-2017: Postdoc
+  * KTH Royal Institute of Technologh
+  * Supervisor: Prof. Felix Ryde
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018-2020: Postdoc
+  * Max Planck Institute for Extraterrestrial Physics (MPE)
   
+* 2020-Present: Postdoc
+  * Bar Ilan University
+  * Supervisor: Prof. Asaf Pe'er
+    
 Skills
 ======
 * Skill 1
