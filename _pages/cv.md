@@ -13,7 +13,7 @@ Education
 ======
 * B.Sc. in Physics, Cukurova University, 2006
 * M.Sc. in Astrophysics, Cukurova University, 2010
-* Ph.D. in Relativistic Astrophysics, Nive University, 2014
+* Ph.D. in Relativistic Astrophysics, Nice University, 2014
 
 Work experience
 ======
