@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "A Study of GRBs with Low-luminosity Afterglows"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/Dereli_2017_ApJ_850_117.pdf
+#excerpt: ''
+date: 2017-12
+venue: 'ApJ'
+paperurl: 'http://academicpages.github.io/files/Dereli_2017_ApJ_850_117.pdf'
+citation: 'Dereli et al. (2017), ApJ, 850, 117'
 ---
-This paper is about the number 2. The number 3 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](https://iopscience.iop.org/article/10.3847/1538-4357/ab9a2d/pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Dereli et al. (2017), ApJ, 850, 117
