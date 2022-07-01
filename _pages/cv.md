@@ -1,11 +1,14 @@
 ---
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /cv/CV_H_Dereli-Begue.pdf
+paperurl: 'http://academicpages.github.io/files/CV_H_Dereli-Begue.pdf'
 author_profile: true
 redirect_from:
   - /resume
 ---
+
+
 
 {% include base_path %}
 
