@@ -1,11 +1,11 @@
 ---
 title: "On the α-intensity correlation in gamma-ray bursts: subphotospheric heating with varying entropy"
 collection: publications
-permalink: /publication/RydeYuDereli-Bégué_2019_mnras_484_2.pdf
+permalink: /publication/Ryde_Yu_Dereli_2019_MNRAS_stz083
 #excerpt: ''
 date: 2019-04
 venue: 'MNRAS'
-paperurl: 'http://academicpages.github.io/files/RydeYuDereli-Bégué_2019_mnras_484_2.pdf'
+paperurl: 'http://academicpages.github.io/files/Ryde_Yu_Dereli_2019_MNRAS_stz083.pdf'
 citation: 'Ryde et al. (2019), MNRAS, 484, 2'
 ---
 
