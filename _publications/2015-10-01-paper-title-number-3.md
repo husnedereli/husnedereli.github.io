@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 3"
+title: "A wind environment and Lorentz factors of tens explain gamma-ray bursts X-ray plateau"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2207.11066.pdf
+excerpt: ''
+date: 2022-07-11
+venue: 'Nature Communications'
+paperurl: 'http://academicpages.github.io/files/2207.11066.pdf'
+citation: 'Dereli-Begue et al. (2022), Nature Com., , '
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](https://ui.adsabs.harvard.edu/abs/2022arXiv220711066D)
+
+
+Recommended citation: 'Dereli-Begue et al. (2022), Nature Com., , '
