@@ -1,5 +1,5 @@
 ---
-title: "A Study of GRBs with Low-luminosity Afterglows"
+title: "A Study of GRBs with Low-Luminosity Afterglows"
 collection: publications
 permalink: /publication/Dereli_2017_ApJ_850_117.pdf
 #excerpt: ''
