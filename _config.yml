@@ -247,7 +247,7 @@ defaults:
       
     # _CV
   - scope:
-      path: ""
+      path: "http://academicpages.github.io/files/CV_H_Dereli-Begue.pdf"
       type: CV
     values:
       layout: CV
