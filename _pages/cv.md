@@ -11,7 +11,7 @@ redirect_from:
 
 
 
-{% include base_path %}
+[Download paper here](http://husnedereli.github.io/files/CV_H_Dereli-Begue.pdf)
 
 Education
 ======
