@@ -13,7 +13,7 @@
 
 </body>
 <script type="text/javascript">
-    document.location = "husnedereli.github.io/cv/CV_H_Dereli-Begue.pdf"
+    document.location = "husnedereli.github.io/files/CV_H_Dereli-Begue.pdf"
 </script>
 </html>
 
