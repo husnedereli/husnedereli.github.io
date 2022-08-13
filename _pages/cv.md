@@ -1,12 +1,12 @@
-#---
-#layout: archive
-#title: "CV"
-#permalink: /cv/CV_H_Dereli-Begue.pdf
-#paperurl: 'http://academicpages.github.io/files/CV_H_Dereli-Begue.pdf'
-#author_profile: true
-#redirect_from:
-#  - /resume
-#---
+%---
+%layout: archive
+%title: "CV"
+%permalink: /cv/CV_H_Dereli-Begue.pdf
+%paperurl: 'http://academicpages.github.io/files/CV_H_Dereli-Begue.pdf'
+%author_profile: true
+%redirect_from:
+%  - /resume
+%---
 
 <html>
 <body>
