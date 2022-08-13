@@ -5,7 +5,7 @@ permalink: /publication/Dereli-Bégué_2020_ApJ_897_145
 #excerpt: ''
 date: 2020-07-13
 venue: 'ApJ'
-paperurl: 'http://academicpages.github.io/files/Dereli-Bégué_2020_ApJ_897_145.pdf'
+paperurl: 'http://husnedereli.github.io/files/Dereli-Bégué_2020_ApJ_897_145.pdf'
 citation: 'Dereli-Bégué et al. (2020), ApJ, 897, 145'
 ---
 
