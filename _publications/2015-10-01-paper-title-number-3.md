@@ -5,7 +5,7 @@ permalink: /publication/2207.11066.pdf
 excerpt: ''
 date: 2022-07-11
 venue: 'Nature Communications'
-paperurl: 'http://academicpages.github.io/files/2207.11066.pdf'
+paperurl: 'http://husnedereli.github.io/files/2207.11066.pdf'
 citation: 'Dereli-Bégué et al. (2022), Nature Com., , '
 ---
 
