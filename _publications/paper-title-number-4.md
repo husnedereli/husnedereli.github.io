@@ -5,7 +5,7 @@ permalink: /publication/Ryde_Yu_Dereli_2019_MNRAS_stz083
 #excerpt: ''
 date: 2019-01-10
 venue: 'MNRAS'
-paperurl: 'http://academicpages.github.io/files/Ryde_Yu_Dereli_2019_MNRAS_stz083.pdf'
+paperurl: 'http://husnedereli.github.io/files/Ryde_Yu_Dereli_2019_MNRAS_stz083.pdf'
 citation: 'Ryde et al. (2019), MNRAS, 484, 1912'
 ---
 
