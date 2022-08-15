@@ -17,14 +17,14 @@ Work experience
   * Bar Ilan University
   * Supervisor: Prof. Asaf Pe'er
     
-Skills
+Cumputer Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Graphics and computations: 
+  * Python, Jupyter notebooks, C, Gnuplot, ROOT, Matlab, git/github, bash
+* Data analysis tools:
+  * Fermi Science Tools, RMFit, HeaSoft package (FTOOLS), Xspec, IRAF (SNOOPY:daophot, APELL) 
+* Statistic:
+  * Frequentist methods, Bayesian inference
 
 Publications
 ======
