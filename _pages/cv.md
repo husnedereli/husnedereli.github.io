@@ -1,18 +1,3 @@
----
-layout: archive
-title: "CV"
-permalink: /cv/CV_H_Dereli-Begue.pdf
-paperurl: 'http://husnedereli.github.io/files/CV_H_Dereli-Begue.pdf'
-author_profile: true
-redirect_from:
-  - /resume
----
-
-
-
-
-[Download paper here](http://husnedereli.github.io/files/CV_H_Dereli-Begue.pdf)
-
 Education
 ======
 * B.Sc. in Physics, Cukurova University, 2006
