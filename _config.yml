@@ -87,7 +87,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : "husnedereli@gmail.com"
+  email            : "husnedereli@gmail.com", "husne.dereli-begue@biu.ac.il"
   researchgate     : "https://www.researchgate.net/profile/Huesne-Dereli"
   uri              :
   bitbucket        :
@@ -239,23 +239,14 @@ defaults:
   #    share: true
   #    comment: true
   # _talks
-  # - scope:
-  #    path: ""
-  #    type: talks
-  #  values:
-  #    layout: talk
-  #    author_profile: true
-  #    share: true
-      
-    # _CV
   - scope:
-      path: "http://academicpages.github.io/files/CV_H_Dereli-Begue.pdf"
-      type: CV
+      path: ""
+      type: talks
     values:
-      layout: CV
+      layout: talk
       author_profile: true
       share: true
-      comments: true
+      
 
 # Sass/SCSS
 sass:
