@@ -1,22 +1,19 @@
 Education
 ======
-* B.Sc. in Physics, Cukurova University, 2006
-* M.Sc. in Astrophysics, Cukurova University, 2010
-* Ph.D. in Relativistic Astrophysics, Nice University, 2014
+* Ph.D. in Relativistic Astrophysics, Nice University, France, 2014
+* M.Sc. in Astrophysics, Cukurova University, Turkey, 2010
+* M.Sc. Erasmus Student Mobility in Astrophysics, Padova University, Italy, 2009
+* B.Sc. in Physics, Cukurova University, Turkey, 2006
 
-Work experience
+Professional Positions
 ======
-* 2015-2017: Postdoc
-  * KTH Royal Institute of Technologh
-  * Supervisor: Prof. Felix Ryde
-
-* 2018-2020: Postdoc
-  * Max Planck Institute for Extraterrestrial Physics (MPE)
-  
 * 2020-Present: Postdoc
   * Bar Ilan University
-  * Supervisor: Prof. Asaf Pe'er
-    
+* 2018-2020: Postdoc
+  * Max Planck Institute for Extraterrestrial Physics (MPE)
+* 2015-2017: Postdoc
+  * KTH Royal Institute of Technologh
+  
 Cumputer Skills
 ======
 * Graphics and computations: 
@@ -32,6 +29,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+  {% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+  
 Talks
 ======
   <ul>{% for post in site.talks %}
@@ -44,6 +45,15 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and memberships
 ======
-* Currently signed in to 43 different slack teams
+* Acted as a Burst advocate in the Fermi-GBM collaboration
+* Gravitational wave (GW) group at the Bar Ilan University
+* SRG working group in Turkey
+* Fermi-LAT and Fermi-GBM science working groups
+* THESEUS Multi-Messenger Astrophysics Working Group
+* Athena Science Working Groups (SWG2.6 Luminous extra-galactic transients)
+
+
+
+
