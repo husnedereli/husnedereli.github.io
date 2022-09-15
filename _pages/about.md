@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-Hi! I’m Hüsne, a postdoc at the University of Bar Ilan, in Department of Physics, Ramat Gan, Israel. I’m an Astrophysicist and data analyst.
+Hi! I’m Hüsne, a postdoc at the University of Bar Ilan, in Department of Physics, Israel. I’m an Astrophysicist and data scientist.
 
 My work and research
 ======
