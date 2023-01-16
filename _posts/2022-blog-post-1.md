@@ -4,6 +4,5 @@ date: 2022-09-25
 permalink: https://astronomycommunity.nature.com/posts/bridging-the-gap-of-observed-lorentz-factors-in-astronomical-objects
 
 This blog post is for the paper published in Nature communication titled: A wind environment and Lorentz factors of tens explain gamma-ray bursts X-ray plateau
-permalink: https://doi.org/10.1038/s41467-022-32881-1
 
 ---
