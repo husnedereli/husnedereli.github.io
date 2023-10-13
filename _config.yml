@@ -85,12 +85,39 @@ author:
   avatar           : "picture_husne.png"
   bio              : "Astrophysicist and data scientist"
   location         : "Ramat-Gan, Israel"
-  email            : "husnedereli@gmail.com"
+  employer         :
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            :
+    - "husnedereli@gmail.com"
+    - "husne.dereli-begue@biu.ac.il"
   researchgate     : "https://www.researchgate.net/profile/Huesne-Dereli"
+  uri              :
+  bitbucket        :
+  codepen          :
+  dribbble         :
+  flickr           :
   facebook         : "husne.dereli"
+  foursquare       :
   github           : "husnedereli"
+  google_plus      :
+  keybase          :
+  instagram        :
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm           :
+  linkedin:
   orcid            : "https://orcid.org/0000-0002-8852-7530"
+  pinterest        :
+  soundcloud       :
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  steam            :
+  tumblr           :
   twitter          : "husne2"
+  vine             :
+  weibo            :
+  xing             :
+  youtube          :
+  wikipedia        :
 
 
 # Reading Files
