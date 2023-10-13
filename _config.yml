@@ -88,9 +88,7 @@ author:
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
-    - "husnedereli@gmail.com"
-    - "husne.dereli-begue@biu.ac.il"
+  email            : "husnedereli@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Huesne-Dereli"
   uri              :
   bitbucket        :
