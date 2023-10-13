@@ -78,17 +78,3 @@ analytics:
   google:
     tracking_id          :
 
-
-# Site Author
-author:
-  name             : "Husne Dereli-Begue"
-  avatar           : "picture_husne.png"
-  bio              : "Astrophysicist and data scientist"
-  location         : "Ramat-Gan, Israel"
-  email            : "husnedereli@gmail.com", "husne.dereli-begue@biu.ac.il"
-  researchgate     : "https://www.researchgate.net/profile/Huesne-Dereli"
-  facebook         : "husne.dereli"
-  github           : "husnedereli"
-  orcid            : "https://orcid.org/0000-0002-8852-7530"
-  twitter          : "husne2"
-  
