@@ -1,7 +1,7 @@
 ---
 title: 'Bridging the gap of observed Lorentz factors in astronomical objects'
 date: 2022-09-25
-permalink: /posts/2022-blog-post-1.md
+permalink: /posts/2022-blog-post-1
 paperurl: https://astronomycommunity.nature.com/posts/bridging-the-gap-of-observed-lorentz-factors-in-astronomical-objects
 ---
 
