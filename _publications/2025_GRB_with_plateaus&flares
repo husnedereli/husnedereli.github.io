@@ -4,12 +4,14 @@ collection: publications
 permalink: /publication/Dereli-Bégué_2025_ApJ_985_261.pdf
 excerpt: ''
 date: 2025-06-01
-venue: 'ApJ'
+venue: 'The Astrophysical Journal, 2025'
 paperurl: 'http://husnedereli.github.io/files/Dereli-Bégué_2025_ApJ_985_261.pdf'
 citation: 'Dereli-Bégué et al. (2025), ApJ, 985, 261'
 ---
 
-[Download paper here](https://iopscience.iop.org/article/10.3847/1538-4357/adcead/pdf)
+[Download paper here](https://ui.adsabs.harvard.edu/abs/2025ApJ...985..261D/abstract)
 
 
 Recommended citation: 'Dereli-Bégué et al. (2022), ApJ, 985, 261' \\
+
+I introduced a novel approach to fitting multiple afterglow models to GRB X-ray light curves. This approach enabled the accurate determination of flares and their properties. Considering bursts with and without a plateau separately, I showed in a statistical analysis that the flare temporal properties are the same. This finding supports the idea presented in Dereli-Bégué et al. (2022) that plateaus are produced by a slower relativistic jet evolving in a wind-like environment.
