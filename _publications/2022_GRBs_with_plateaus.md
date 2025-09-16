@@ -6,11 +6,11 @@ excerpt: ''
 date: 2022-07-11
 venue: 'Nature Communications'
 paperurl: 'http://husnedereli.github.io/files/2207.11066.pdf'
-citation: 'Dereli-Bégué et al. (2022), Nature Com., , '
+citation: 'Dereli-Bégué et al. (2022), Nature Commun., 13, 5611'
 ---
 
 
 [Download paper here](https://ui.adsabs.harvard.edu/abs/2022arXiv220711066D)
 
 
-Recommended citation: 'Dereli-Bégué et al. (2022), Nature Com., , '
+Recommended citation: 'Dereli-Bégué et al. (2022), Nature Commun.,13, 5611'
